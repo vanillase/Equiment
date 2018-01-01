@@ -1,3 +1,13 @@
+#-------------------------------------------------------------------------------
+# Name:        agilent34495A
+# Purpose:     Control agilent34495A DMM Single Measure resistance . 
+#           
+# Author:      li.chelsey@gmail.com
+#
+# Created:     31/12/2017
+# Copyright:   (c) li.chelsey@gmail.com
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
 import visa
 
 def agilent34405A():
