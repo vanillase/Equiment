@@ -1,3 +1,16 @@
+#-------------------------------------------------------------------------------
+# Name:        dmm7510
+# Purpose:     Control dmm7510 collect 1M current/ voltage samples 
+#           
+# Author:      li.chelsey@gmail.com
+#
+# Created:     31/12/2017
+# Copyright:   (c) li.chelsey@gmail.com
+# Licence:     <your licence>
+#-------------------------------------------------------------------------------
+
+
+
 import os,math,time,sys
 import visa,csv,datetime
 
