@@ -1,2 +1,2 @@
 # Equiment
-Script for Agilent/ Keysight equiment
+Ultility script for Agilent/ Keysight equipment
